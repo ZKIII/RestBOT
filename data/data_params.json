@@ -1,0 +1,28 @@
+{
+  "restaurant": {
+    "workspace": "hotel-common-areas-main",
+    "project": "restaurant-w7qfp",
+    "version": 18,
+    "model": "yolov8",
+    "types": {
+      "0": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "8": 0,
+      "5": 1,
+      "6": 1,
+      "9": 1
+    }
+  },
+  "staff_customer": {
+    "workspace": "insan",
+    "project": "restaurant-staff-and-customer",
+    "version": 17,
+    "model": "yolov8",
+    "types": {
+      "0": 2,
+      "1": 3
+    }
+  }
+}
